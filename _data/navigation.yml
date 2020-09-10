@@ -4,7 +4,7 @@ main:
     url: /research/
 
   - title: "CV"
-    url: /cv/
+    url: /files/WendyWong_CV.pdf    
     
   - title: "Teaching"
-    url: /files/WendyWong_CV.pdf    
+    url: /teaching/
