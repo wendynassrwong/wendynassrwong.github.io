@@ -24,12 +24,13 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 /* serif typefaces */
 $georgia                    : Georgia, serif;
 $times                      : "Raleway", Times, serif;
+$raleway                    : "Raleway";
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
-$garamond                   : "Raleway", Garamond, serif;
+$zillaslab                  : "Zilla Slab", Garamond, serif;
 
-$global-font-family         : $calisto;
-$header-font-family         : $garamond;
+$global-font-family         : $raleway;
+$header-font-family         : $zillaslab;
 $caption-font-family        : $serif;
 
 /* type scale */
