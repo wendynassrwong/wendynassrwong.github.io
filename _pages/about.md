@@ -17,5 +17,5 @@ Research interests: development economics, organizational/personnel economics, p
 You can contact me at wendywong [at] uchicago [dot] edu.
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/profile.png)
+![Editing a markdown file for a talk](/images/profile.jpg)
 
