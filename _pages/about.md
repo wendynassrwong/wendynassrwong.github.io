@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+## Hello!
 I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy and on the job market this 2020-21 academic year.
 
 ---
@@ -34,7 +35,7 @@ You can reach me at [wendywong@uchicago.edu](mailto:wendywong@uchicago.edu).
 
 Changes:
 - Sidebar: move sidebar to right. change image size and border
-- Change about page style: Increase font size of name. May be using the same layout as the other pages..
+- Change about page style: Increase font size of name. May be using the same layout as the other pages..find the right css document
 	- create separate html files for the Fields. and References and Welcome sections?
 - Change research/teaching font/size layout..need to find it..
 - Remove footer
