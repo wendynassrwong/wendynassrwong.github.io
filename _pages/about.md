@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome!"
-excerpt: "Wendy Wong"
+title: "Wendy Wong"
+excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
