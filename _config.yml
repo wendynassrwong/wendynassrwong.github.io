@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wendy Wong"
   avatar           : "profile.jpg"
-  bio              : "Bio"
-  location         : "Chicago, IL"
+  bio              : 
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
