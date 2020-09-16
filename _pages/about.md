@@ -11,14 +11,11 @@ redirect_from:
 ## Hello!
 I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy and on the job market this 2020-21 academic year.
 
----
 
 ## Fields 
 * Applied Microeconomics
 * Development Economics
 * Political Economy
-
----
 
 ## References 
 * [Canice Prendergast](https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast), University of Chicago Booth (co-chair)
@@ -40,7 +37,8 @@ Changes:
 - Change research/teaching font/size layout..need to find it..
 - Remove footer
 - Remove faint line separating navigation?
-- link formatting
+- link formatting: change color, remove underline when not hovering
+- remove other pages. or deactivate compiling them.
 
 
 

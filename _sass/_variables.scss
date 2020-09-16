@@ -13,8 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : "Raleway", Georgia, Times, serif;
-$sans-serif                 : "Zilla Slab", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif                      : "Zilla Slab", Georgia, Times, serif;
+$sans-serif                 : "Balsamiq Sans", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : "Raleway", Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -22,10 +22,10 @@ $sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* serif typefaces */
-$georgia                    : "Raleway", Georgia, serif;
-$times                      : "Raleway", Times, serif;
+$georgia                    : Georgia, serif;
+$times                      : Times, serif;
 $raleway                    : "Raleway";
-$bodoni                     : "Raleway", serif;
+$bodoni                     : serif;
 $calisto                    : "Raleway", serif;
 $zillaslab                  : "Zilla Slab", Garamond, serif;
 
