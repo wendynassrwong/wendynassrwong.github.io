@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy. I am on the job market this 2020-21 academic year and available for interviews.
+I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy. I am on the job market this 2020-21 academic year.
 
 ---
 
-Fields: 
+# Fields 
 * Applied Microeconomics
 * Development Economics
 * Political Economy
