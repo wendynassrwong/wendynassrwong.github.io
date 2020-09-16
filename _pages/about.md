@@ -8,14 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy. I am on the job market this 2020-21 academic year.
+I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy and on the job market this 2020-21 academic year.
 
 ---
 
-# Fields 
+## Fields 
 * Applied Microeconomics
 * Development Economics
 * Political Economy
+
+---
+
+## References 
+* [Canice Prendergast](https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast), University of Chicago Booth (co-chair)
+* [Konstantin Sonin](https://harris.uchicago.edu/directory/konstantin-sonin), University of Chicago Harris (co-chair)
+* [Christopher Blattman](https://harris.uchicago.edu/directory/christopher-blattman), University of Chicago Harris 
+* [Luis Martinez](https://harris.uchicago.edu/directory/luis-martinez), University of Chicago Harris 
+
+---
+
 
 You can reach me at [wendywong@uchicago.edu](mailto:wendywong@uchicago.edu).
 
@@ -28,6 +39,7 @@ Changes:
 - Change research/teaching font/size layout..need to find it..
 - Remove footer
 - Remove faint line separating navigation?
+- link formatting
 
 
 
