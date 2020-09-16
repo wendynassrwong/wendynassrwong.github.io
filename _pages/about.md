@@ -8,21 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy. 
+I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy. I am on the job market this 2020-21 academic year and available for interviews.
 
-I am on the job market this 2020-21 academic year and available for interviews.
+---
 
 Fields: 
 * Applied Microeconomics
 * Development Economics
 * Political Economy
 
-You can reach me at wendywong@uchicago.edu.
+You can reach me at [wendywong@uchicago.edu](mailto:wendywong@uchicago.edu).
+
+---
 
 Changes:
-- Sidebar: remove author name in side bar. move sidebar to right. change image size
-- Change about page style: Increase font size of name.
+- Sidebar: move sidebar to right. change image size and border
+- Change about page style: Increase font size of name. May be using the same layout as the other pages..
+	- create separate html files for the Fields. and References and Welcome sections?
 - Change research/teaching font/size layout..need to find it..
+- Remove footer
+- Remove faint line separating navigation?
 
 
 
