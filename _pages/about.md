@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome!"
-excerpt: "About me"
+excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,5 +19,5 @@ Fields:
 
 You can reach me at wendywong [at] uchicago [dot] edu.
 
-![Editing a markdown file for a talk](/images/profile.jpg)
+#![profilepic](/images/profile.jpg)
 
