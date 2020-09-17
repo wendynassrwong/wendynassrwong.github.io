@@ -30,16 +30,16 @@ Contact me at [wendywong@uchicago.edu](mailto:wendywong@uchicago.edu).
         <h3>REFERENCES</h3>
         <ul>
            <li>
-<a href="https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast">Canice Prendergast</a>, University of Chicago Booth (co-chair)
+<a href="https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast",style="text-decoration: none">Canice Prendergast</a>, University of Chicago Booth (co-chair)
 		</li>
            <li>
-<a href="https://harris.uchicago.edu/directory/konstantin-sonin">Konstantin Sonin</a>, University of Chicago Harris (co-chair)
+<a href="https://harris.uchicago.edu/directory/konstantin-sonin",style="text-decoration: none">Konstantin Sonin</a>, University of Chicago Harris (co-chair)
 </li>
            <li>
-<a href="https://harris.uchicago.edu/directory/christopher-blattman">Christopher Blattman</a>, University of Chicago Harris 
+<a href="https://harris.uchicago.edu/directory/christopher-blattman",style="text-decoration: none">Christopher Blattman</a>, University of Chicago Harris 
 		</li>
 		<li>
-<a href="https://harris.uchicago.edu/directory/luis-martinez">Luis Martinez</a>, University of Chicago Harris
+<a href="https://harris.uchicago.edu/directory/luis-martinez",style="text-decoration: none">Luis Martinez</a>, University of Chicago Harris
 </li>
         </ul>
     </div>
