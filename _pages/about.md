@@ -19,8 +19,8 @@ Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: no
 ---
 <div class="row">
     <div class="column">
-        <h3>FIELDS
-		</h3>
+        <h2>FIELDS Fields
+		</h2>
         <ul>
             <li>Applied Microeconomics</li>
             <li>Development Economics</li>
