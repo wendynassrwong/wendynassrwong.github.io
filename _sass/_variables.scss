@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 16;
+$doc-font-size              : 22;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -14,7 +14,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : "Zilla Slab", Georgia, Times, serif;
-$sans-serif                 : "Cormorant Garamond", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "Raleway", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : "Raleway", Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -52,7 +52,7 @@ $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$lighter-gray               : mix(#fff, $gray, 95%);
 
 $body-color                 : #fff;
 $background-color           : #fff;
@@ -65,7 +65,7 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : $light-gray;
+$info-color                 : $dark-gray;
 
 /* brands */
 $behance-color              : #1769FF;
