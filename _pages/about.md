@@ -11,20 +11,28 @@ redirect_from:
 ## Hello!
 I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy and on the job market this 2020-21 academic year.
 
-## FIELDS
-
-   <ul style="width:10%; float:left;">
-      <li>1</li>
-      <li>2</li>
-   </ul>
-
-## REFERENCES
-
-   <ul style="width:10%; float:left;">
-      <li>3</li>
-      <li>4</li>
-   </ul>
-
+<div class="row">
+    <div class="column">
+        <h2>FIELDS</h2>
+        <ul>
+            <li>Something</li>
+            <li>Something</li>
+            <li>Something</li>
+            <li>Something</li>
+        </ul>
+    </div>
+    <div class="column">
+        <h2>REFERENCES</h2>
+        <ul>
+            <li>Something</li>
+            <li>Something</li>
+            <li>Something</li>
+            <li>Something</li>
+            <li>Something</li>
+            <li>Something</li>
+        </ul>
+    </div>
+</div>
 
 ## FIELDS 
 * Applied Microeconomics
