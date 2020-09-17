@@ -325,3 +325,9 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.row{clear:both}
+
+.column{
+    width: 50%;
+    float: left;
+}
