@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <font size="200">Wendy Wong</font>
+title: <font size="400">Wendy Wong</font>
 excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
