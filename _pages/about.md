@@ -23,24 +23,20 @@ I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Po
     <div class="column">
         <h2>REFERENCES</h2>
         <ul>
-            <li>[Canice Prendergast](https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast), University of Chicago Booth (co-chair)</li>
-            <li>[Konstantin Sonin](https://harris.uchicago.edu/directory/konstantin-sonin), University of Chicago Harris (co-chair)</li>
-            <li>[Christopher Blattman](https://harris.uchicago.edu/directory/christopher-blattman), University of Chicago Harris</li>
-		<li>[Luis Martinez](https://harris.uchicago.edu/directory/luis-martinez), University of Chicago Harris</li>
+           <li>
+<a href="https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast">Canice Prendergast, University of Chicago Booth (co-chair)</a>
+		</li>
+           <li>
+<a href="https://harris.uchicago.edu/directory/konstantin-sonin">Konstantin Sonin, University of Chicago Harris (co-chair)</a>
+</li>
+           <li>
+<a href="https://harris.uchicago.edu/directory/christopher-blattman">Christopher Blattman, University of Chicago Harris </a></li>
+		<li>
+<a href="https://harris.uchicago.edu/directory/luis-martinez">Luis Martinez, University of Chicago Harris </a>
+</li>
         </ul>
     </div>
 </div>
-
-## FIELDS 
-* Applied Microeconomics
-* Development Economics
-* Political Economy
-
-## REFERENCES
-* [Canice Prendergast](https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast), University of Chicago Booth (co-chair)
-* [Konstantin Sonin](https://harris.uchicago.edu/directory/konstantin-sonin), University of Chicago Harris (co-chair)
-* [Christopher Blattman](https://harris.uchicago.edu/directory/christopher-blattman), University of Chicago Harris 
-* [Luis Martinez](https://harris.uchicago.edu/directory/luis-martinez), University of Chicago Harris 
 
 ---
 
@@ -52,7 +48,6 @@ Contact me at [wendywong@uchicago.edu](mailto:wendywong@uchicago.edu).
 Changes:
 - Sidebar: move sidebar to right. change image size and border
 - Change about page style: Increase font size of name. May be using the same layout as the other pages..find the right css document
-	- create separate html files for the Fields. and References and Welcome sections?
 - Change research/teaching font/size layout..need to find it..
 - Remove footer
 - Remove faint line separating navigation?
