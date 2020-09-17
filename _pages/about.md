@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <p style = "font-family:'Libre Baskerville';color:#0A3B02"><font size=100px>Wendy Wong</font></p>
+title: <p style = "font-family:'Libre Baskerville';color:#0A3B02"><font size=300px>Wendy Wong</font></p>
 excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
@@ -27,7 +27,7 @@ Contact me at [wendywong@uchicago.edu](mailto:wendywong@uchicago.edu).
         </ul>
     </div>
     <div class="column">
-        <h3>REFERENCES</h3>
+        <h3><p style = "font-family:'Libre Baskerville'">REFERENCES</p></h3>
         <ul>
            <li>
 <a href="https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast" style="text-decoration: none">Canice Prendergast</a>, University of Chicago Booth (co-chair)
