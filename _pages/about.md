@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p style = "font-family:'Zilla Slab'; font-size:22">
+</h3><p style = "font-family:'Zilla Slab'; font-size:22">
 Hello!
-</p>
+</p></h3>
 I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy and on the job market this 2020-21 academic year.
 
 
