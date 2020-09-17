@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<font size="50"> Wendy Wong</font>
+
 ## Hello!
 I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy and on the job market this 2020-21 academic year.
 
