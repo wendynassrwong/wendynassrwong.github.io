@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <p style = "font-family:'Libre Baskerville';font-size='400';color:#0C5301">Wendy Wong</p>
+title: <p style = "font-family:'Libre Baskerville';font-size=1.9em;color:#0C5301">Wendy Wong</p>
 excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
