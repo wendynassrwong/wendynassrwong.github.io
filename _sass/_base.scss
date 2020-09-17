@@ -112,12 +112,10 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none;
+  color: $link-color;
   &:focus {
     @extend %tab-focus;
-  }
-  &:link {
-    text-decoration: none;
-    color: $link-color;
   }
   &:hover {
     text-decoration: underline;
