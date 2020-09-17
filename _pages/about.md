@@ -24,19 +24,22 @@ I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Po
         <h2>REFERENCES</h2>
         <ul>
            <li>
-<a href="https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast">Canice Prendergast, University of Chicago Booth (co-chair)</a>
+<a href="https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast">Canice Prendergast</a>, University of Chicago Booth (co-chair)
 		</li>
            <li>
-<a href="https://harris.uchicago.edu/directory/konstantin-sonin">Konstantin Sonin, University of Chicago Harris (co-chair)</a>
+<a href="https://harris.uchicago.edu/directory/konstantin-sonin">Konstantin Sonin</a>, University of Chicago Harris (co-chair)
 </li>
            <li>
-<a href="https://harris.uchicago.edu/directory/christopher-blattman">Christopher Blattman, University of Chicago Harris </a></li>
+<a href="https://harris.uchicago.edu/directory/christopher-blattman">Christopher Blattman</a>, University of Chicago Harris 
+		</li>
 		<li>
-<a href="https://harris.uchicago.edu/directory/luis-martinez">Luis Martinez, University of Chicago Harris </a>
+<a href="https://harris.uchicago.edu/directory/luis-martinez">Luis Martinez</a>, University of Chicago Harris
 </li>
         </ul>
     </div>
 </div>
+
+
 
 ---
 
