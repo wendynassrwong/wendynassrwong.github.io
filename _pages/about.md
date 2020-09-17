@@ -31,7 +31,7 @@ Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: no
         <h3><p style = "font-family:'Libre Baskerville'">REFERENCES</p></h3>
         <ul>
            <li>
-<a href="https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast">Canice Prendergast</a>, University of Chicago Booth (co-chair)
+<a href="https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast" style="text-decoration: none">Canice Prendergast</a>, University of Chicago Booth (co-chair)
 		</li>
            <li>
 <a href="https://harris.uchicago.edu/directory/konstantin-sonin" style="text-decoration: none">Konstantin Sonin</a>, University of Chicago Harris (co-chair)
