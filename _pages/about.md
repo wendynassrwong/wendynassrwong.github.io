@@ -17,8 +17,8 @@ Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: no
 ---
 <div class="row">
     <div class="column">
-        <h2><p style = "font-family:'Zilla Slab'">Fields
-		</p></h2>
+        <h3><p style = "font-family:'Zilla Slab'">Fields
+		</p></h3>
         <ul>
             <li>Applied Microeconomics</li>
             <li>Development Economics</li>
@@ -26,7 +26,7 @@ Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: no
         </ul>
     </div>
     <div class="column">
-        <h2><p style = "font-family:'Zilla Slab'">References</p></h2>
+        <h3><p style = "font-family:'Zilla Slab'">References</p></h3>
         <ul>
            <li>
 <a href="https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast" style="text-decoration: none">Canice Prendergast</a>, University of Chicago Booth (co-chair)
