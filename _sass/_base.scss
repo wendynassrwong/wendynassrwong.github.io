@@ -115,7 +115,10 @@ a {
   &:focus {
     @extend %tab-focus;
   }
-
+  &:link {
+    text-decoration: none;
+    color: $link-color;
+  }
   &:hover {
     text-decoration: underline;
     color: $link-color-hover;
