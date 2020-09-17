@@ -11,6 +11,7 @@ redirect_from:
 <h2><p style = "font-family:'Zilla Slab'">
 Hello!
 </p></h2>
+<p style = "font-family:'Zilla Slab'"><font size=500px><strong>Hello!</strong></font></p>
 I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy and on the job market this 2020-21 academic year.
 
 
