@@ -18,8 +18,8 @@ Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: no
 ---
 <div class="row">
     <div class="column">
-        <h3><font size=10px>Fields</font>
-		</h3>
+        <h3><p style = "font-family:'Zilla Slab'">Fields
+		</p></h3>
         <ul>
             <li>Applied Microeconomics</li>
             <li>Development Economics</li>
