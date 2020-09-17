@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <font size="100">Wendy Won"</font>
+title: <font size="200">Wendy Wong</font>
 excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
@@ -37,7 +37,7 @@ I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Po
 
 </td>
 </tr>
-</table
+</table>
 
 
 ## FIELDS 
