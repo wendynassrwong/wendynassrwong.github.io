@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <p style = "font-family:'Libre Baskerville';font-size=1.9em;color:#0C5301">Wendy Wong</p>
+title: <p style = "font-family:'Libre Baskerville';color:#0A3B02"><font size=3em>Wendy Wong</font></p>
 excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
@@ -18,7 +18,8 @@ Contact me at [wendywong@uchicago.edu](mailto:wendywong@uchicago.edu).
 
 <div class="row">
     <div class="column">
-        <h2>FIELDS</h2>
+        <h3><p style = "font-family:'Libre Baskerville'">FIELDS</p>
+		</h3>
         <ul>
             <li>Applied Microeconomics</li>
             <li>Development Economics</li>
@@ -26,7 +27,7 @@ Contact me at [wendywong@uchicago.edu](mailto:wendywong@uchicago.edu).
         </ul>
     </div>
     <div class="column">
-        <h2>REFERENCES</h2>
+        <h3>REFERENCES</h3>
         <ul>
            <li>
 <a href="https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast">Canice Prendergast</a>, University of Chicago Booth (co-chair)
