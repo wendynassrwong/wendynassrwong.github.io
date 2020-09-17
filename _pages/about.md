@@ -14,10 +14,18 @@ I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Po
 <table>
 <tr>
 <th>
-<h2> FIELDS </h2>
+<h2> 
+
+FIELDS 
+
+</h2>
 </th>
 <th> 
-<h2> REFERENCES </h2>
+<h2> 
+
+REFERENCES 
+
+</h2>
 </th>
 </tr>
 <tr>
@@ -31,8 +39,11 @@ I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Po
 <td>
 
 * [Canice Prendergast](https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast), University of Chicago Booth (co-chair)
+
 * [Konstantin Sonin](https://harris.uchicago.edu/directory/konstantin-sonin), University of Chicago Harris (co-chair)
+
 * [Christopher Blattman](https://harris.uchicago.edu/directory/christopher-blattman), University of Chicago Harris 
+
 * [Luis Martinez](https://harris.uchicago.edu/directory/luis-martinez), University of Chicago Harris 
 
 </td>
