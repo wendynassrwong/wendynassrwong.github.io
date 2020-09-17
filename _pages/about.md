@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <p style = "font-family:'Libre Baskerville';color:#0A3B02"><font size=300px>Wendy Wong</font></p>
+title: <p style = "font-family:'Libre Baskerville';color:#0A3B02"><font size=500px>Wendy Wong</font></p>
 excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
@@ -12,10 +12,9 @@ redirect_from:
 I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy and on the job market this 2020-21 academic year.
 
 
-Contact me at [wendywong@uchicago.edu](mailto:wendywong@uchicago.edu).
+Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: none">wendywong@uchicago.edu</a>.
 
 ---
-
 <div class="row">
     <div class="column">
         <h3><p style = "font-family:'Libre Baskerville'">FIELDS</p>
@@ -44,20 +43,3 @@ Contact me at [wendywong@uchicago.edu](mailto:wendywong@uchicago.edu).
         </ul>
     </div>
 </div>
-
-
-
-
----
-
-Changes:
-- Sidebar: move sidebar to right. change image size and border
-- Change about page style: May be using the same layout as the other pages..find the right css document
-- Change research/teaching font/size layout..need to find it..
-- link formatting: change color, remove underline when not hovering
-- remove other pages. or deactivate compiling them.
-- remove mobile follow button. check other formats
-
-
-
-
