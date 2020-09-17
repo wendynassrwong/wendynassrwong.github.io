@@ -15,21 +15,18 @@ I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Po
     <div class="column">
         <h2>FIELDS</h2>
         <ul>
-            <li>Something</li>
-            <li>Something</li>
-            <li>Something</li>
-            <li>Something</li>
+            <li>Applied Microeconomics</li>
+            <li>Development Economics</li>
+            <li>Political Economy</li>
         </ul>
     </div>
     <div class="column">
         <h2>REFERENCES</h2>
         <ul>
-            <li>Something</li>
-            <li>Something</li>
-            <li>Something</li>
-            <li>Something</li>
-            <li>Something</li>
-            <li>Something</li>
+            <li>[Canice Prendergast](https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast), University of Chicago Booth (co-chair)</li>
+            <li>[Konstantin Sonin](https://harris.uchicago.edu/directory/konstantin-sonin), University of Chicago Harris (co-chair)</li>
+            <li>[Christopher Blattman](https://harris.uchicago.edu/directory/christopher-blattman), University of Chicago Harris</li>
+		<li>[Luis Martinez](https://harris.uchicago.edu/directory/luis-martinez), University of Chicago Harris</li>
         </ul>
     </div>
 </div>
