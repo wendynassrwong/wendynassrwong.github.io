@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <font size="50">"Wendy Wong"</font>
+title: <font size="100">Wendy Won"</font>
 excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-<font size="50"> Wendy Wong</font>
-
 ## Hello!
 I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy and on the job market this 2020-21 academic year.
+
+<table>
+<tr>
+<th>
+<h2> FIELDS </h2>
+</th>
+<th> 
+<h2> REFERENCES </h2>
+</th>
+</tr>
+<tr>
+<td>
+
+* Applied Microeconomics
+* Development Economics
+* Political Economy
+
+</td>
+<td>
+
+* [Canice Prendergast](https://www.chicagobooth.edu/faculty/directory/p/canice-prendergast), University of Chicago Booth (co-chair)
+* [Konstantin Sonin](https://harris.uchicago.edu/directory/konstantin-sonin), University of Chicago Harris (co-chair)
+* [Christopher Blattman](https://harris.uchicago.edu/directory/christopher-blattman), University of Chicago Harris 
+* [Luis Martinez](https://harris.uchicago.edu/directory/luis-martinez), University of Chicago Harris 
+
+</td>
+</tr>
+</table
 
 
 ## FIELDS 
