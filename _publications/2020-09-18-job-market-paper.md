@@ -1,6 +1,7 @@
 ---
 title: "Job Market Paper"
 collection: publications
+permalink: '/research/job-market-paper
 excerpt: 'XXexcerptXX'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
