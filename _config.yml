@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en"
 title                    : <p style = "font-family:'Libre Baskerville';color:#0A3B02"><font size=50px> Wendy Wong </font></p>
 title_separator          : "-"
 name                     : &name "Wendy Wong"
