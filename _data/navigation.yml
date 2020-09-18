@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: <font size=10px>Research</font>
+  - title: <font size=1em>Research</font>
     url: /research/
 
-  - title: <font size=10px>CV</font>
+  - title: <font size=1em>CV</font>
     url: /files/WendyWong_CV.pdf    
     
-  - title: <font size=10px>Teaching</font>
+  - title: <font size=1em>Teaching</font>
     url: /teaching/
