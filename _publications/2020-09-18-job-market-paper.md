@@ -1,7 +1,7 @@
 ---
 title: "Job Market Paper"
 collection: publications
-permalink: '/research/job-market-paper'
+permalink: /research/job-market-paper
 excerpt: 'XXexcerptXX'
 date: 2020-09-18
 venue: 'XX'
