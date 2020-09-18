@@ -2,7 +2,7 @@
 layout: archive
 title: <font size=30px>Research</font>
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 {% if author.googlescholar %}
