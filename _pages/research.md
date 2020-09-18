@@ -13,7 +13,7 @@ author_profile: true
 
 ### Job Market Paper
 
-<i>"Optimal Monitoring and Bureaucrat Adjustments"</i>  [(pdf)](https://wendynassrwong.github.io/files/WendyWongOptimMonit_JMP.pdf)
+<i>"Optimal Monitoring and Bureaucrat Adjustments"</i>  [(pdf)](https://wendynassrwong.github.io/files/WendyWong_OptimMonitJMP.pdf)
 <details open>
 <summary>Abstract</summary>
 <br>
@@ -22,3 +22,8 @@ Monitoring policies designed to deter bureaucrat misconduct require accounting f
 
 
 ### Work in Progress
+
+<i>"Improving property tax collection: Reducing property owner and monitor incentives to misreport"</i> (with Yusuf Neggers, pilot phase)
+
+
+
