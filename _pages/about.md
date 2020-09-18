@@ -16,6 +16,7 @@ I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Po
 Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: none">wendywong@uchicago.edu</a>.
 
 ---
+
 <div class="row">
     <div class="column">
         <h3><p style = "font-family:'Zilla Slab'">Fields
