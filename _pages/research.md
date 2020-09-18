@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Job Market Paper
+## Job Market Paper
 <div style="margin-left: 2em; margin-right: 10em;">
 <p style = "font-family:'Raleway'">
 Optimal Monitoring and Bureaucrat Adjustments  
@@ -25,7 +25,7 @@ Monitoring policies designed to deter bureaucrat misconduct require accounting f
 </div>
 <hr>
 
-### Work in Progress
+## Work in Progress
 <div style="margin-left: 2em; margin-right: 10em;">
 <p style = "font-family:'Raleway'">
 <b>Improving property tax collection: Reducing property owner and monitor incentives to misreport </b> </p>
