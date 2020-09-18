@@ -1,14 +1,15 @@
----
-title: "Job Market Paper"
+----
+title: "Paper Title Number 1"
 collection: publications
-permalink: /research/job-market-paper
-excerpt: 'XXexcerptXX'
-date: 2020-09-18
-venue: 'XX'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal XX'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation : ''
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
-### Abstract
-Monitoring policies designed to deter bureaucrat misconduct require accounting for bureaucrats' attempts to evade detection. This paper examines strategic responses of bureaucrats based on their expectations of being audited in India's employment guarantee program. Exploiting random assignment to audits over multiple waves (without replacement), I find the rate of deterred misappropriated expenditures is increasing in bureaucrats’ expectations of being audited. I also find that bureaucrats evade detection by adjusting the timing and type of expenditure to misappropriate. Applying a model of Bayesian persuasion to these results, I solve for the optimal design of information communicated on the likelihood of audit. I analyze counterfactual policies using a sufficient statistic from the model. Concentrated incentives, i.e. notifying of audits in advance, would have persuaded bureaucrats to forgo misappropriating an additional USD 35m (16\% of average annual expenditures in this setting) when compared to dispersed incentives, i.e. messages are uninformative and audit timing is unpredictable.
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
