@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wendy Wong"
+title                    : <p style = "font-family:'Libre Baskerville';color:#0A3B02"><font size=50px>Wendy Wong</font></p><div class="horizontalgap" style="width:100px"></div>
 title_separator          : "-"
 name                     : &name "Wendy Wong"
 description              : &description "personal description"
