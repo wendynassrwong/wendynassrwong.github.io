@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Research"
+  - title: <font size=20px>Research</font>
     url: /research/
 
   - title: "CV"
