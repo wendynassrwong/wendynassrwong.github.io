@@ -3,7 +3,10 @@ title: "Job Market Paper"
 collection: publications
 permalink: '/research/job-market-paper'
 excerpt: 'XXexcerptXX'
+date: 2020-09-18
+venue: 'XX'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation : ''
 ---
 
 ### Abstract
