@@ -14,7 +14,7 @@ author_profile: true
 ### Job Market Paper
 <div style="margin-left: 2em; margin-right: 10em;">
 <p>
-<i>"Optimal Monitoring and Bureaucrat Adjustments"</i>  <aref url="https://wendynassrwong.github.io/files/WendyWong_OptimMonitJMP.pdf">(pdf)</a>
+<i>"Optimal Monitoring and Bureaucrat Adjustments"</i>  <a href="https://wendynassrwong.github.io/files/WendyWong_OptimMonitJMP.pdf" style="text-decoration: none">(pdf)</a>
 <details open>
 <summary>Abstract</summary>
 <br>
