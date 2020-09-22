@@ -7,7 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : <font size=6px>Wendy Wong</font>
+=======
+title                    : <font size = 6.8px> Wendy Wong</font>
+>>>>>>> parent of 306a14e... navig
 title_separator          : "-"
 name                     : &name "Wendy Wong"
 description              : &description "personal description"
