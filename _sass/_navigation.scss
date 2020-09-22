@@ -210,7 +210,6 @@
       vertical-align: middle;
 
       &:first-child {
-        font-size: 300px;
         font-weight: bold;
 
         a {
@@ -265,6 +264,7 @@
     a {
       margin: 0;
       padding: 10px 20px;
+      font-size: $type-size-1;
 
       &:hover {
         color: $masthead-link-color-hover;
