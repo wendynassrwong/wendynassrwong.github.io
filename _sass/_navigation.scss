@@ -200,6 +200,32 @@
     color: #fff;
     cursor: pointer;
   }
+  
+  .hamburger {
+    position: relative;
+    width: 32px;
+    height: 4px;
+    background: #fff;
+    margin: auto;
+    
+    &:before, 
+    &:after {
+      content: '';
+      position: absolute;
+      left: 0;
+      width: 32px;
+      height: 4px;
+      background: #fff;
+    }
+    
+    &:before {
+      top: -8px;
+    }
+    
+    &:after {
+      bottom: -8px;
+    }
+  }
 
   .visible-links {
     display: table;
