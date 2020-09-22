@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Wendy Wong
+title                    : <font size=6.5px>Wendy Wong</font>
 title_separator          : "-"
 name                     : &name "Wendy Wong"
 description              : &description "personal description"
