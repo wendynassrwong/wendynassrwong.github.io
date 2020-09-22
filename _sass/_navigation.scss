@@ -174,7 +174,7 @@
 
 .greedy-nav {
   position: relative;
-  min-width: 350px;
+  min-width: 250px;
   background: $background-color;
 
   a {
@@ -191,7 +191,7 @@
 
   button {
     position: absolute;
-    height: 20%;
+    height: 100%;
     right: 0;
     padding: 0 0.5rem;
     border: 0;
