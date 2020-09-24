@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<head> <meta name="google-site-verification" content="xXajE-OB6zpNHp7nyP1YC7QweF-4RyfQxxBpb6Hgec8" /> </head>
+
 I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy and on the job market this 2020-21 academic year. 
 
 I am interested in the role of formal and informal institutions in addressing poverty and inequality. My current research focuses on how incentives in government can be designed to improve welfare.
