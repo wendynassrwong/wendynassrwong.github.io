@@ -17,7 +17,7 @@ author_profile: false
 Optimal Monitoring and Bureaucrat Adjustments  
 </b>
 
-<a href="https://wendynassrwong.github.io/files/WendyWong_OptimMonitJMP.pdf" style="text-decoration: none">[pdf]</a>
+<!--<a href="https://wendynassrwong.github.io/files/WendyWong_OptimMonitJMP.pdf" style="text-decoration: none">[pdf]</a> -->
 </p>
 
 <details open>
