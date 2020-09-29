@@ -32,18 +32,17 @@ Monitoring policies designed to deter bureaucrat misconduct require accounting f
 <div style="margin-left: 2em; margin-right: 10em;">
 
 <p style = "font-family:'Raleway'">
-<b>Improving property tax collection: Reducing property owner and monitor incentives to misreport </b> 
+<b>Improving Property Tax Collection: Reducing Property Owner and Monitor Incentives to Misreport </b> 
 
 with Yusuf Neggers, pilot phase
 </p>
 
 <p style = "font-family:'Raleway'">
-<b>The effect of hierarchical and network characteristics on police performance</b> 
+<b>The Effect of Hierarchical and Network Characteristics on Police Performance</b> 
 </p>
 
 <p style = "font-family:'Raleway'">
-<b>Relationships between bureaucrats and beneficiaries, and access to public resources</b> 
-
+<b>Relationships between Bureaucrats and Beneficiaries, and Access to Public Resources</b> 
 </p>
 
 
