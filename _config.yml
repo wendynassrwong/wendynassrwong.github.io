@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : <font size=6px>Wendy Wong</font>
+title                    : <font size=6px>Wendy N. Wong</font>
 title_separator          : "-"
-name                     : &name "Wendy Wong"
+name                     : &name "Wendy N. Wong"
 description              : &description "personal description"
 url                      : https://wendynassrwong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
