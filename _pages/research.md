@@ -34,7 +34,7 @@ Monitoring policies designed to deter bureaucrat misconduct require accounting f
 <p style = "font-family:'Raleway'">
 <b>Improving Property Tax Collection: Reducing Property Owner and Monitor Incentives to Misreport </b> 
 
-with Yusuf Neggers, pilot phase
+with Yusuf Neggers, funded and in pilot phase
 </p>
 
 <p style = "font-family:'Raleway'">
