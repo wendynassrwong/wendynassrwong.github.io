@@ -1,10 +1,10 @@
 # main links links
 main:
+  - title: CV
+    url: /files/WendyWong_CV.pdf    
+
   - title: Research
     url: /research/
 
-  - title: CV
-    url: /files/WendyWong_CV.pdf    
-    
   - title: Teaching
     url: /teaching/
