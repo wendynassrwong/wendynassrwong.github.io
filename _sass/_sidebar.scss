@@ -74,29 +74,22 @@
   // vertical-align: top;
   // width: 100%;
   // set width only, for non-square avatars
-<<<<<<< HEAD
   // height: 200px;
-=======
-  // height: 36px;
->>>>>>> parent of 99a965e... Update _sidebar.scss
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 100%;
     height: auto;
   }
 
   img {
-<<<<<<< HEAD
     width: 100%;
     height: auto;
     // border-radius: 8px;
-=======
-    max-width: 100%;
-    border-radius: 50%;
->>>>>>> parent of 8891ae5... Update _sidebar.scss
 
     @include breakpoint($large) {
+      width: 100%;
+      height: auto;
       padding: 5px;
       border: 1px solid $border-color;
     }
