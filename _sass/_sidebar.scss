@@ -70,15 +70,11 @@
    ========================================================================== */
 
 .author__avatar {
-  // display: table-cell;
-  // vertical-align: top;
-  // width: 100%;
+  display: table-cell;
+  vertical-align: top;
+  width: 36px;
   // set width only, for non-square avatars
-<<<<<<< HEAD
-  // height: 200px;
-=======
   // height: 36px;
->>>>>>> parent of 99a965e... Update _sidebar.scss
 
   @include breakpoint($large) {
     display: block;
@@ -87,14 +83,8 @@
   }
 
   img {
-<<<<<<< HEAD
-    width: 100%;
-    height: auto;
-    // border-radius: 8px;
-=======
-    max-width: 100%;
+    max-width: 175px;
     border-radius: 50%;
->>>>>>> parent of 8891ae5... Update _sidebar.scss
 
     @include breakpoint($large) {
       padding: 5px;
@@ -128,7 +118,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-2;
+  font-size: $type-size-5;
 }
 
 .author__bio {
@@ -245,3 +235,4 @@
     }
   }
 }
+
