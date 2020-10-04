@@ -70,11 +70,11 @@
    ========================================================================== */
 
 .author__avatar {
-  // display: table-cell;
-  // vertical-align: top;
-  // width: 100%;
+  display: table-cell;
+  vertical-align: top;
+  width: 200px;
   // set width only, for non-square avatars
-  // height: 200px;
+  height: 200px;
 
   @include breakpoint($large) {
     display: block;
@@ -83,16 +83,16 @@
   }
 
   img {
-    width: 100%;
+    width: auto;
     height: auto;
     // border-radius: 8px;
 
-    @include breakpoint($large) {
-      width: 100%;
-      height: auto;
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+    // @include breakpoint($large) {
+    //  width: 100%;
+    //  height: auto;
+    //  padding: 5px;
+    //  border: 1px solid $border-color;
+    // }
   }
 }
 
