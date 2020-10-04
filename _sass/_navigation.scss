@@ -11,8 +11,8 @@
   @include clearfix;
   margin-top: 0;
   margin-bottom: 0;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
+  padding-left: 2em;
+  padding-right: 2em;
   font-family: $serif;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -426,7 +426,7 @@
 
   /* hide sub sub links on small screens*/
   li > ul li {
-    display: block;
+    display: none;
 
     @include breakpoint($medium) {
       display: block;
