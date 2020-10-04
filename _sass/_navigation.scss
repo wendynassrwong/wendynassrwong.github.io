@@ -189,19 +189,46 @@
     }
   }
 
-  .button {
+  button {
     position: absolute;
     // display: block;
     height: 100%;
     right: 0;
-    padding: 0 0.5rem;
+    padding: 0 0.5 0.5 0.5rem;
     border: 0;
     outline: none;
-    background-color: #fff;
-    color: $primary-color;
+    background-color: $primary-color;
+    color: #fff;
     cursor: pointer;
   }
   
+  hamburger {
+    position: relative;
+    width: 32px;
+    height: 4px;
+    background: #fff;
+    margin: auto;
+    
+    &:before,
+    &:after {
+      content: "";
+      position: absolute;
+      left: 0;
+      width: 32px;
+      height: 4px;
+      background: $primary-color;
+    }
+    
+    &:before {
+      top: -8px;
+    }
+    
+    &:after {
+      bottom: -8px;
+    }
+  }
+  
+
   .visible-links {
     display: inline-table;
 
