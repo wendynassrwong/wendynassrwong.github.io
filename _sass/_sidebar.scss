@@ -87,9 +87,14 @@
   }
 
   img {
+<<<<<<< HEAD
     width: 100%;
     height: auto;
     // border-radius: 8px;
+=======
+    max-width: 100%;
+    border-radius: 50%;
+>>>>>>> parent of 8891ae5... Update _sidebar.scss
 
     @include breakpoint($large) {
       padding: 5px;
