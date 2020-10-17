@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/WendyWong_CV.pdf
+permalink: /files/WendyNWong_CV.pdf
 author_profile: true
 redirect_from:
   - /resume
