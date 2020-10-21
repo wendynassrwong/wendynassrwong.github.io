@@ -39,15 +39,34 @@ with Yusuf Neggers, funded and in pilot phase
 </p>
 
 <p style = "font-family:'Raleway'">
-<b>The Effect of Hierarchical and Network Characteristics on Police Performance</b> 
+<b>The Value-add of Bureaucrats along the Hierarchy to Collective Organizational Performance</b> 
 </p>
 
 <p style = "font-family:'Raleway'">
-<b>Relationships between Bureaucrats and Beneficiaries, and Access to Public Resources</b> 
+<b>Informal Relationships between Bureaucrats and Beneficiaries, and Access to Public Resources</b> 
 </p>
 
 
 </div>
+
+
+## Pre-doctoral Publications
+<div style="margin-left: 2em; margin-right: 2em;">
+
+<p style = "font-family:'Raleway'">
+<a href="https://journals.lww.com/jaids/Fulltext/2014/04010/Assessing_the_Costs_and_Effects_of_Antiretroviral.15.aspx" style="text-decoration: none"><i>Assessing the Costs and Effects of Antiretroviral Therapy Task Shifting From Physicians to Other Health Professionals in Ethiopia</i></a>, with Johns, B., Asfaw, E., Bekele, A., Minior, T., Kebede, A., & Palen, J., <b> Journal of Acquired Immune Deficiency Syndromes </b>(2014)
+</p>
+
+<p style = "font-family:'Raleway'">
+<a href="https://academic.oup.com/heapol/article/29/3/379/583059" style="text-decoration: none"><i>Lessons learned from stakeholder-driven sustainability analysis of six national HIV programmes</i></a>, with Katz, I., Glandon, D., Kargbo, B., Ombam, R., Singh, S., Osika, J. S., <b> Health Policy and Planning </b>(2014)
+</p>
+
+<p style = "font-family:'Raleway'">
+<a href="https://academic.oup.com/heapol/article/29/suppl_2/ii50/586879" style="text-decoration: none"><i>Patient satisfaction with task shifting of antiretroviral services in Ethiopia: Implications for universal health coverage</i></a>, with Asfaw, E., Dominis, S., Palen, J. G. H., Bekele, A., Kebede, A., & Johns, B., <b> Health Policy and Planning </b>(2014)
+</p>
+
+</div>
+
 
 
 
