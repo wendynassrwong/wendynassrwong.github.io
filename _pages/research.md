@@ -39,7 +39,7 @@ with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf
 </p>
 
 <p style = "font-family:'Raleway'">
-<b>The Value-add of Bureaucrats along the Hierarchy to Collective Organizational Performance</b> 
+<b>The Value-Add of Bureaucrats along the Hierarchy to Collective Organizational Performance</b> 
 </p>
 
 <p style = "font-family:'Raleway'">
@@ -59,7 +59,7 @@ with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf
 </p>
 
 <p style = "font-family:'Raleway'">
-<a href="https://academic.oup.com/heapol/article/29/3/379/583059" style="text-decoration: none"><i>Lessons Learned from Stakeholder-driven Sustainability Analysis of Six National HIV Programmes</i></a>, with Katz, I., Glandon, D., Kargbo, B., Ombam, R., Singh, S., Osika, J. S., <b> Health Policy and Planning </b>(2014)
+<a href="https://academic.oup.com/heapol/article/29/3/379/583059" style="text-decoration: none"><i>Lessons Learned from Stakeholder-Driven Sustainability Analysis of Six National HIV Programmes</i></a>, with Katz, I., Glandon, D., Kargbo, B., Ombam, R., Singh, S., Osika, J. S., <b> Health Policy and Planning </b>(2014)
 </p>
 
 <p style = "font-family:'Raleway'">
