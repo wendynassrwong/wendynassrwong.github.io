@@ -35,7 +35,7 @@ Monitoring policies designed to maximize deterrence must account for attempts by
 <p style = "font-family:'Raleway'">
 <b>Improving Property Tax Collection: Reducing Property Owner and Monitor Incentives to Misreport </b> 
 
-with Yusuf Neggers, funded and in pilot phase
+with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf Neggers</a>, funded and in pilot phase
 </p>
 
 <p style = "font-family:'Raleway'">
