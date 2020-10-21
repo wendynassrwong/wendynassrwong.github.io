@@ -55,15 +55,15 @@ with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf
 <div style="margin-left: 2em; margin-right: 2em;">
 
 <p style = "font-family:'Raleway'">
-<a href="https://journals.lww.com/jaids/Fulltext/2014/04010/Assessing_the_Costs_and_Effects_of_Antiretroviral.15.aspx" style="text-decoration: none"><b><i>Assessing the Costs and Effects of Antiretroviral Therapy Task Shifting From Physicians to Other Health Professionals in Ethiopia</i></b></a>, with Johns, B., Asfaw, E., Bekele, A., Minior, T., Kebede, A., & Palen, J., <b> Journal of Acquired Immune Deficiency Syndromes </b>(2014)
+<a href="https://journals.lww.com/jaids/Fulltext/2014/04010/Assessing_the_Costs_and_Effects_of_Antiretroviral.15.aspx" style="text-decoration: none"><i>Assessing the Costs and Effects of Antiretroviral Therapy Task Shifting From Physicians to Other Health Professionals in Ethiopia</i></a>, with Johns, B., Asfaw, E., Bekele, A., Minior, T., Kebede, A., & Palen, J., <b> Journal of Acquired Immune Deficiency Syndromes </b>(2014)
 </p>
 
 <p style = "font-family:'Raleway'">
-<a href="https://academic.oup.com/heapol/article/29/3/379/583059" style="text-decoration: none"><b><i>Lessons Learned from Stakeholder-driven Sustainability Analysis of Six National HIV Programmes</i></b></a>, with Katz, I., Glandon, D., Kargbo, B., Ombam, R., Singh, S., Osika, J. S., <b> Health Policy and Planning </b>(2014)
+<a href="https://academic.oup.com/heapol/article/29/3/379/583059" style="text-decoration: none"><i>Lessons Learned from Stakeholder-driven Sustainability Analysis of Six National HIV Programmes</i></a>, with Katz, I., Glandon, D., Kargbo, B., Ombam, R., Singh, S., Osika, J. S., <b> Health Policy and Planning </b>(2014)
 </p>
 
 <p style = "font-family:'Raleway'">
-<a href="https://academic.oup.com/heapol/article/29/suppl_2/ii50/586879" style="text-decoration: none"><b><i>Patient Satisfaction with Task Shifting of Antiretroviral Services in Ethiopia: Implications for Universal Health Coverage</i></b></a>, with Asfaw, E., Dominis, S., Palen, J. G. H., Bekele, A., Kebede, A., & Johns, B., <b> Health Policy and Planning </b>(2014)
+<a href="https://academic.oup.com/heapol/article/29/suppl_2/ii50/586879" style="text-decoration: none"><i>Patient Satisfaction with Task Shifting of Antiretroviral Services in Ethiopia: Implications for Universal Health Coverage</i></a>, with Asfaw, E., Dominis, S., Palen, J. G. H., Bekele, A., Kebede, A., & Johns, B., <b> Health Policy and Planning </b>(2014)
 </p>
 
 </div>
