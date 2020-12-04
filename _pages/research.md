@@ -20,6 +20,8 @@ Optimal Monitoring and Bureaucrat Adjustments
 <a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonitJMP.pdf" style="text-decoration: none">[pdf]</a>
 </p>
 
+<p><i>Covered on the <a href="https://blogs.worldbank.org/impactevaluations/surprise-when-do-they-work-best-auditors-guest-post-wendy-n-wong" style="text-decoration: none">World Bank Development Impact Blog</a></i></p>
+
 <details open>
 <summary>Abstract</summary>
 <br>
