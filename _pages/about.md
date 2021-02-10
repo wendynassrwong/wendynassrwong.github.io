@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy and on the job market this 2020-21 academic year. 
+I am a Ph.D. Candidate at the University of Chicago's Harris School of Public Policy and on the economics job market this 2020-21 academic year. 
 
 I am interested in the role of formal and informal institutions in addressing poverty and inequality. My current research focuses on how incentives in government can be designed to improve welfare.
 
@@ -17,6 +17,16 @@ Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: no
 ---
 
 <div class="row">
+    <div class="column">
+        <h3><p style = "font-family:'Zilla Slab'">Fields
+		</p></h3>
+        <ul>
+            <li>Applied Microeconomics</li>
+            <li>Development Economics</li>
+            <li>Public Economics</li>
+		 <li>Political Economy</li>
+        </ul>
+    </div>
     <div class="column">
         <h3><p style = "font-family:'Zilla Slab'">References</p></h3>
         <ul>
