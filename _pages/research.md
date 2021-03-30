@@ -17,11 +17,11 @@ author_profile: false
 <p style = "font-family:'Raleway'"><b>
 Optimal Monitoring and Bureaucrat Adjustments  
 </b>
-<a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonitJMP.pdf" style="text-decoration: none">[pdf]</a>
+<a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonitJMP.pdf" style="text-decoration: none">[pdf]</a></p>
 </div><br>
-<div style="margin-left: 3em; margin-right: 2em;">
+<div style="margin-left: 2.75em; margin-right: 2em;">
 <i>Covered on the </i><a href="https://blogs.worldbank.org/impactevaluations/surprise-when-do-they-work-best-auditors-guest-post-wendy-n-wong" style="text-decoration: none">[World Bank Development Impact Blog]</a>
-</p>
+
 
 <details close>
 <summary>Abstract</summary>
