@@ -17,7 +17,8 @@ author_profile: false
 <p style = "font-family:'Raleway'"><b>
 Optimal Monitoring and Bureaucrat Adjustments  
 </b>
-
+</div>
+<div style="margin-left: 4em; margin-right: 2em;">
 <a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonitJMP.pdf" style="text-decoration: none">[pdf]</a>
 </p>
 
