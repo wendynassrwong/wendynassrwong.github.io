@@ -44,6 +44,8 @@ with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf
 
 <p style = "font-family:'Raleway'">
 <b>The Value-Add of Bureaucrats along the Hierarchy to Collective Organizational Performance</b> 
+
+with <a href="https://sites.google.com/view/bocarba/" style="text-decoration: none">Bocar Ba</a> and <a href="https://sites.google.com/view/romangabrielrivera/" style="text-decoration: none">Roman Rivera</a>
 </p>
 
 <p style = "font-family:'Raleway'">
