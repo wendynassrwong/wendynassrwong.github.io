@@ -23,5 +23,4 @@ Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: no
 
 <link rel="stylesheet"
   href="https://fonts.googleapis.com/css?family=Petit+Formal+Script">
-
-<p style = "font-family:'Petit Formal Script'; font-size:13px">Photo credit: <a href="https://www.michellekanaar.com/index" style="text-decoration: none">Michelle Kanaar</a></p>
+<p style = "font-family:'Petit Formal Script'; font-size:14px">Photo credit: <a href="https://www.michellekanaar.com/index" style="text-decoration: none">Michelle Kanaar</a></p>
