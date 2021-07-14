@@ -125,7 +125,8 @@
 
 .author__bio {
   margin: 0;
-  font-size: $type-size-1;
+  font-family: $georgia;
+  font-size: $type-size-8;
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
