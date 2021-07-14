@@ -15,3 +15,8 @@ I am interested in the role of formal and informal institutions in addressing po
 Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: none">wendywong@uchicago.edu</a>.
 
 ---
+
+<link rel="stylesheet"
+  href="https://fonts.googleapis.com/css?family=Petit+Formal+Script">
+<br>
+<p style = "font-family:'Petit Formal Script'">Photo credit: <a href="https://www.michellekanaar.com/index" style="text-decoration: none">Michelle Kanaar</a></p>
