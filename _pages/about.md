@@ -14,7 +14,6 @@ I am interested in the role of formal and informal institutions in addressing po
 
 Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: none">wendywong@uchicago.edu</a>.
 
-
 <br>
 
 <br>
