@@ -16,8 +16,9 @@ Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: no
 
 
 <br>
----
 <br>
+---
+
 <link rel="stylesheet"
   href="https://fonts.googleapis.com/css?family=Petit+Formal+Script">
 
