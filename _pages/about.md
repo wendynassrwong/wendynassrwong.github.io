@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate at the <a href="https://harris.uchicago.edu/" style="text-decoration: none">University of Chicago's Harris School of Public Policy</a>. In August 2021, I will start as a Postdoctoral Scholar with the Development Innovation Lab at the <a href="https://economics.uchicago.edu/" style="text-decoration: none">University of Chicago's Department of Economics</a>. 
+I am a Postdoctoral Scholar with the Development Innovation Lab at the <a href="https://bfi.uchicago.edu/" style="text-decoration: none">University of Chicago's Becker Friedman Institute for Economics</a>. 
 
 I am interested in the role of formal and informal institutions in addressing poverty and inequality. My current research focuses on how incentives in government can be designed to improve welfare.
 
