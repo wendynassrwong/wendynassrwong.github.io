@@ -17,7 +17,7 @@ author_profile: false
 <p style = "font-family:'Raleway'"><b>
 Optimal Monitoring and Bureaucrat Adjustments  
 </b>
-<a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonitJMP.pdf" style="text-decoration: none">[pdf]</a>
+<a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonit.pdf" style="text-decoration: none">[pdf]</a>
 <div style="margin-left: 2.75em; margin-right: 2em;">
 <i>Covered on the </i><a href="https://blogs.worldbank.org/impactevaluations/surprise-when-do-they-work-best-auditors-guest-post-wendy-n-wong" style="text-decoration: none">[World Bank Development Impact Blog]</a>
 
@@ -39,8 +39,23 @@ Monitoring policies designed to maximize deterrence must account for attempts by
 <p style = "font-family:'Raleway'">
 <b>Improving Property Tax Collection: Reducing Property Owner and Monitor Incentives to Misreport </b> 
 
-with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf Neggers</a>, funded and in pilot phase
+with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf Neggers</a>, data collection completed
 </p>
+
+<p style = "font-family:'Raleway'">
+<b>The impact of improving on-the-job safety for women
+on earnings</b> 
+
+with <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a> and <a href="https://sites.google.com/site/pablopenamunoz/" style="text-decoration: none">Pablo Pe<span>&#241;</span>a</a> 
+</p>
+
+<p style = "font-family:'Raleway'">
+<b>Improving COVID-19 vaccine acceptance in Kenya</b> 
+
+with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>,  and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
+</p>
+
+
 
 <p style = "font-family:'Raleway'">
 <b>Productivity Along the Police Hierarchy</b> 
