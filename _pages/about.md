@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Scholar with the Development Innovation Lab at the <a href="https://bfi.uchicago.edu/" style="text-decoration: none">University of Chicago's Becker Friedman Institute for Economics</a>. 
+I am a Postdoctoral Scholar with the <a href="https://dil.uchicago.edu/" style="text-decoration: none">Development Innovation Lab at the University of Chicago's Becker Friedman Institute for Economics</a>, and a Visiting Postdoctoral Fellow with <a href="https://epod.cid.harvard.edu/" style="text-decoration: none">Evidence for Policy Deisgn at the Harvard Kennedy School</a>.
 
 I am interested in the role of formal and informal institutions in addressing poverty and inequality. My current research focuses on how policies can be designed to improve motivation and welfare in public and private sector settings.
 
