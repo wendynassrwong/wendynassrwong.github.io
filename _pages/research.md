@@ -46,7 +46,7 @@ with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf
 <b>The impact of improving on-the-job safety for women
 on earnings</b> 
 
-with <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a> and <a href="https://sites.google.com/site/pablopenamunoz/" style="text-decoration: none">Pablo Pe<span>&#241;</span>a</a> 
+with <a href="https://sites.google.com/site/pablopenamunoz/" style="text-decoration: none">Pablo Pe<span>&#241;</span>a</a> 
 </p>
 
 <p style = "font-family:'Raleway'">
