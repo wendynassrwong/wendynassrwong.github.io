@@ -15,7 +15,7 @@ author_profile: false
 
 <div style="margin-left: 2em; margin-right: 2em;">
 <p style = "font-family:'Raleway'"><b>
-Optimal Monitoring and Bureaucrat Adjustments  
+Optimal Monitoring and Bureaucrat Adjustments (submitted) 
 </b>
 <a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonit.pdf" style="text-decoration: none">[pdf]</a>
 <div style="margin-left: 2.75em; margin-right: 2em;">
