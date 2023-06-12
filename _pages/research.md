@@ -59,12 +59,13 @@ with <a href="https://sites.google.com/site/pablopenamunoz/" style="text-decorat
 
 
 
-
+<!--
 <p style = "font-family:'Raleway'">
 <b>Productivity Along the Police Hierarchy</b> 
 
 with <a href="https://sites.google.com/view/bocarba/" style="text-decoration: none">Bocar Ba</a> and <a href="https://sites.google.com/view/romangabrielrivera/" style="text-decoration: none">Roman Rivera</a>
 </p>
+-->
 
 <p style = "font-family:'Raleway'">
 <b>Informal Relationships between Bureaucrats and Beneficiaries, and Access to Public Resources</b> 
