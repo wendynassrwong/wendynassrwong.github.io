@@ -33,6 +33,13 @@ Monitoring policies designed to maximize deterrence must account for attempts by
 </div>
 <hr>
 
+<p style = "font-family:'Raleway'">
+<b>Combining Community Access and Household Outreach Doubles Vaccination: Evidence from COVID-19 in Kenya</b> 
+
+with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>,  and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
+</p>
+
+
 ## In Progress
 
 <div style="margin-left: 2em; margin-right: 2em;">
@@ -49,11 +56,6 @@ on earnings</b>
 with <a href="https://sites.google.com/site/pablopenamunoz/" style="text-decoration: none">Pablo Pe<span>&#241;</span>a</a> 
 </p>
 
-<p style = "font-family:'Raleway'">
-<b>Improving COVID-19 vaccine acceptance in Kenya</b> 
-
-with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>,  and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
-</p>
 
 
 
