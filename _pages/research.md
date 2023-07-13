@@ -31,7 +31,16 @@ Monitoring policies designed to maximize deterrence must account for attempts by
 </div>
 </p>
 </div>
+<div style="margin-left: 2em; margin-right: 2em;">
+<p style = "font-family:'Raleway'">
+<b>Combining Community Access and Household Outreach Doubles Vaccination: Evidence from COVID-19 in Kenya</b> 
+with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>,  and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
+</p>
+</div>
 <hr>
+
+
+
 
 ## In Progress
 
@@ -49,19 +58,15 @@ on earnings</b>
 with <a href="https://sites.google.com/site/pablopenamunoz/" style="text-decoration: none">Pablo Pe<span>&#241;</span>a</a> 
 </p>
 
-<p style = "font-family:'Raleway'">
-<b>Improving COVID-19 vaccine acceptance in Kenya</b> 
-
-with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>,  and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
-</p>
 
 
-
+<!--
 <p style = "font-family:'Raleway'">
 <b>Productivity Along the Police Hierarchy</b> 
 
 with <a href="https://sites.google.com/view/bocarba/" style="text-decoration: none">Bocar Ba</a> and <a href="https://sites.google.com/view/romangabrielrivera/" style="text-decoration: none">Roman Rivera</a>
 </p>
+-->
 
 <p style = "font-family:'Raleway'">
 <b>Informal Relationships between Bureaucrats and Beneficiaries, and Access to Public Resources</b> 
