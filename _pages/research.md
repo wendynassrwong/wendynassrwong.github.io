@@ -37,18 +37,25 @@ Monitoring policies designed to maximize deterrence must account for attempts by
 with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>,  and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
 </p>
 </div>
+
+<div style="margin-left: 2em; margin-right: 2em;">
+<p style = "font-family:'Raleway'">
+<b>Hard to Read: The impact of advanced reading assignments on literacy</b> 
+with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, Mridul Joshi, and <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>
+</p>
+</div>
 <hr>
 
 
 
 
-## In Progress
+## Selected Works in Progress
 
 <div style="margin-left: 2em; margin-right: 2em;">
 <p style = "font-family:'Raleway'">
 <b>Improving Property Tax Collection: Reducing Property Owner and Monitor Incentives to Misreport </b> 
 
-with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf Neggers</a>, data collection completed
+with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf Neggers</a> and Shreya Singh
 </p>
 
 <p style = "font-family:'Raleway'">
