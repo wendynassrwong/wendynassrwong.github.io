@@ -15,10 +15,10 @@ author_profile: false
 
 <div style="margin-left: 2em; margin-right: 2em;">
 <p style = "font-family:'Raleway'"><b>
-Optimal Monitoring and Bureaucrat Adjustments (submitted) 
+Optimal Monitoring and Bureaucrat Adjustments 
 </b>
 <div style="margin-left: 2.75em; margin-right: 2em;">
-<a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonit.pdf" style="text-decoration: none">[link]</a><br>
+<a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonit.pdf" style="text-decoration: none">[working paper link]</a><br>
 <i>Covered on the </i><a href="https://blogs.worldbank.org/impactevaluations/surprise-when-do-they-work-best-auditors-guest-post-wendy-n-wong" style="text-decoration: none">[World Bank Development Impact Blog]</a>
 
 
@@ -39,7 +39,15 @@ Monitoring policies designed to maximize deterrence must account for attempts by
 with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>,  and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
 
 <div style="margin-left: 2.75em; margin-right: 2em;">
-<a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">[link]</a><br>
+<a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">[working paper link]</a>
+
+<details close>
+<summary>Abstract</summary>
+<br>
+We examine the impact of a vaccination campaign in Kenya that sent healthcare providers to homes inviting adults, with relatively proximate healthcare services, to get a COVID-19 vaccine nearby. The intervention increased the cumulative number of doses given by 8.7 per 100 people on the day of the intervention, equivalent to about a 10% increase over the baseline number of doses in the control group. The greater number of doses in the treatment group persisted in the 3 months following the intervention, indicating that the intervention induced people to get vaccinated who would not have done so otherwise. A machine learning analysis of heterogeneity reveals that treatment effects are largest among more disadvantaged groups — women, those with less income, and those with less education. To examine whether social image considerations influence vaccination behavior, we borrow a design from DellaVigna, List, and Malmendier 2012 and DellaVigna et al. 2016 used in the contexts of charitable giving and voting, and randomized an announcement of the home visit and vaccination offer ahead of time. This strategy allows those unwilling to be vaccinated to avoid the visit without facing the social repercussions of declining in-person. Contrary to expectations, there was no evidence that social pressure influenced vaccination. Instead, the announcement increased the probability of getting vaccinated by 3.8 percentage points, primarily driven by older participants who are at higher risk of severe disease. A cost-effectiveness exercise suggests that our intervention is comparable to other vaccination campaigns, at 34USD marginal cost per marginal dose.
+
+</details>
+
 </div>
 </p>
 </div>
