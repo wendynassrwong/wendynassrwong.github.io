@@ -17,8 +17,8 @@ author_profile: false
 <p style = "font-family:'Raleway'"><b>
 Optimal Monitoring and Bureaucrat Adjustments (submitted) 
 </b>
-<a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonit.pdf" style="text-decoration: none">[pdf]</a>
 <div style="margin-left: 2.75em; margin-right: 2em;">
+<a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonit.pdf" style="text-decoration: none">[link]</a><br>
 <i>Covered on the </i><a href="https://blogs.worldbank.org/impactevaluations/surprise-when-do-they-work-best-auditors-guest-post-wendy-n-wong" style="text-decoration: none">[World Bank Development Impact Blog]</a>
 
 
@@ -35,10 +35,12 @@ Monitoring policies designed to maximize deterrence must account for attempts by
 
 <div style="margin-left: 2em; margin-right: 2em;">
 <p style = "font-family:'Raleway'">
-<b>Combining Community Access and Household Outreach Doubles Vaccination: Evidence from COVID-19 in Kenya</b> 
+<b>Outreach and Invitations: Increasing COVID-19 Vaccination in Kenya</b> 
 with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>,  and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
-<br>
-<a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">[pdf]</a>
+
+<div style="margin-left: 2.75em; margin-right: 2em;">
+<a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">[link]</a><br>
+</div>
 </p>
 </div>
 
