@@ -22,7 +22,7 @@ Optimal Monitoring and Bureaucrat Adjustments
 <i>Covered on the </i><a href="https://blogs.worldbank.org/impactevaluations/surprise-when-do-they-work-best-auditors-guest-post-wendy-n-wong" style="text-decoration: none">[World Bank Development Impact Blog]</a>
 
 
-<details close>
+<details>
 <summary>Abstract</summary>
 <br>
 Monitoring policies designed to maximize deterrence must account for attempts by agents to evade detection. This paper examines the strategic responses of bureaucrats, who implement India's employment guarantee program, as their expectations of being audited change. Exploiting random assignment to audit timing over multiple waves (without replacement), I find the rate of deterrence for misappropriated expenditures is increasing in bureaucrats' expectations of being audited. In addition, bureaucrats evade detection by adjusting the timing and type of expenditure to misappropriate. Applying a model of Bayesian persuasion, I analyze how information communicated on the likelihood of being audited should be designed. I estimate a sufficient statistic from the model to solve for the optimal signal and analyze welfare under counterfactuals. Concentrated incentives, i.e. notifying of audit timing in advance, would have persuaded bureaucrats to misappropriate USD 35m less in expenditures (16% of average annual expenditures) when compared to dispersed incentives, i.e. messages are uninformative and audit timing is unpredictable.
@@ -41,7 +41,7 @@ with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">
 <div style="margin-left: 2.75em; margin-right: 2em;">
 <a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">[working paper link]</a>
 
-<details close>
+<details>
 <summary>Abstract</summary>
 <br>
 We examine the impact of a vaccination campaign in Kenya that sent healthcare providers to homes inviting adults, with relatively proximate healthcare services, to get a COVID-19 vaccine nearby. The intervention increased the cumulative number of doses given by 8.7 per 100 people on the day of the intervention, equivalent to about a 10% increase over the baseline number of doses in the control group. The greater number of doses in the treatment group persisted in the 3 months following the intervention, indicating that the intervention induced people to get vaccinated who would not have done so otherwise. A machine learning analysis of heterogeneity reveals that treatment effects are largest among more disadvantaged groups — women, those with less income, and those with less education. To examine whether social image considerations influence vaccination behavior, we borrow a design from DellaVigna, List, and Malmendier 2012 and DellaVigna et al. 2016 used in the contexts of charitable giving and voting, and randomized an announcement of the home visit and vaccination offer ahead of time. This strategy allows those unwilling to be vaccinated to avoid the visit without facing the social repercussions of declining in-person. Contrary to expectations, there was no evidence that social pressure influenced vaccination. Instead, the announcement increased the probability of getting vaccinated by 3.8 percentage points, primarily driven by older participants who are at higher risk of severe disease. A cost-effectiveness exercise suggests that our intervention is comparable to other vaccination campaigns, at 34USD marginal cost per marginal dose.
@@ -57,6 +57,7 @@ We examine the impact of a vaccination campaign in Kenya that sent healthcare pr
 with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, Mridul Joshi, and <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>
 </p>
 </div>
+
 <hr>
 
 
