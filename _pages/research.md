@@ -58,6 +58,16 @@ with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-d
 </p>
 </div>
 
+<div style="margin-left: 2em; margin-right: 2em;">
+<p style = "font-family:'Raleway'">
+<b>SMS Interventions Do Not Increase COVID-19 Vaccination Completion in Kenya</b> 
+with Florence Aketch, <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>, James Otieno, and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
+</p>
+</div>
+
+
+
+
 <hr>
 
 
@@ -67,14 +77,21 @@ with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-d
 
 <div style="margin-left: 2em; margin-right: 2em;">
 <p style = "font-family:'Raleway'">
+<b>The Value of Concision</b> 
+with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, and <a href="https://www.uu.nl/staff/JJdeLaat" style="text-decoration: none">Joost de Laat</a>, 
+</p>
+</div>
+
+
+<div style="margin-left: 2em; margin-right: 2em;">
+<p style = "font-family:'Raleway'">
 <b>Improving Property Tax Collection: Reducing Property Owner and Monitor Incentives to Misreport </b> 
 
 with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf Neggers</a> and Shreya Singh
 </p>
 
 <p style = "font-family:'Raleway'">
-<b>The impact of improving on-the-job safety for women
-on earnings</b> 
+<b>Women Driving Women</b> 
 
 with <a href="https://sites.google.com/site/pablopenamunoz/" style="text-decoration: none">Pablo Pe<span>&#241;</span>a</a> 
 </p>
