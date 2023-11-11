@@ -34,7 +34,6 @@ Optimal Monitoring and Bureaucrat Adjustments
 <button type="button" class="btn btn-default btn-sm custom-button">Working Paper</button></a>
 
 <div style="margin-left: 2.75em; margin-right: 2em;">
-<br>
 <i>Covered on the </i><a href="https://blogs.worldbank.org/impactevaluations/surprise-when-do-they-work-best-auditors-guest-post-wendy-n-wong" style="text-decoration: none">[World Bank Development Impact Blog]</a>
 
 
