@@ -11,6 +11,19 @@ author_profile: false
 
 {% include base_path %}
 
+<head>
+<style>
+.custom-button {
+    background-color: #D7DBDD; /* Green background */
+    color: white; /* White text */
+    font-size: 10px; /* Larger font size */
+    padding: 10px 16px; /* Bigger button through padding */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+}
+</style>
+</head>
+
 
 ## Working Papers
 
@@ -41,8 +54,7 @@ with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">
 
 <div style="margin-left: 2.75em; margin-right: 2em;">
 <a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">
-<button type="button" class="btn btn-default btn-sm">Working Paper 
-</button></a>
+<button type="button" class="btn btn-default btn-sm custom-button">Working Paper</button></a>
 
 
 <details>
