@@ -130,6 +130,19 @@ with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-d
 with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf Neggers</a> and Shreya Singh
 </p>
 
+<p style = "font-family:'Raleway'">
+<b>Scaling Up Personalized Adaptive Learning in India</b> (field experiment in progress)
+
+with <a href="https://bfi.uchicago.edu/scholar/emily-cupito/" style="text-decoration: none">Emily Cupito</a>, <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, and <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>
+</p>
+
+<p style = "font-family:'Raleway'">
+<b>The Impact of Conversational AI on Learning with Education Technology in India</b> (preparing for field experiment)
+
+with <a href="https://bfi.uchicago.edu/scholar/emily-cupito/" style="text-decoration: none">Emily Cupito</a>, <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, and <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>
+</p>
+
+
 
 
 <!--
