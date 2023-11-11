@@ -15,8 +15,8 @@ author_profile: false
 <style>
 .custom-button {
     background-color: #D0D3D4; 
-    color: #626567; 
-    font-size: 14px; /* Larger font size */
+    color: #4D5656; 
+    font-size: 16px; /* Larger font size */
     padding: 10px 16px; /* Bigger button through padding */
     border: none; /* No border */
     border-radius: 5px; /* Rounded corners */
@@ -30,9 +30,11 @@ author_profile: false
 <div style="margin-left: 2em; margin-right: 2em;">
 <p style = "font-family:'Raleway'"><b>
 Optimal Monitoring and Bureaucrat Adjustments 
-</b>
+</b><a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonit.pdf" style="text-decoration: none">
+<button type="button" class="btn btn-default btn-sm custom-button">Working Paper</button></a>
+
 <div style="margin-left: 2.75em; margin-right: 2em;">
-<a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonit.pdf" style="text-decoration: none">[working paper link]</a><br>
+<br>
 <i>Covered on the </i><a href="https://blogs.worldbank.org/impactevaluations/surprise-when-do-they-work-best-auditors-guest-post-wendy-n-wong" style="text-decoration: none">[World Bank Development Impact Blog]</a>
 
 
