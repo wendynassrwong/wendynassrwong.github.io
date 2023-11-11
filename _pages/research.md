@@ -14,9 +14,9 @@ author_profile: false
 <head>
 <style>
 .custom-button {
-    background-color: #D0D3D4; 
+    background-color: #424949; 
     color: black; 
-    font-size: 16px; /* Larger font size */
+    font-size: 18px; /* Larger font size */
     padding: 10px 14px; /* Bigger button through padding */
     border: none; /* No border */
     border-radius: 5px; /* Rounded corners */
@@ -31,7 +31,7 @@ author_profile: false
 <p style = "font-family:'Raleway'"><b>
 Optimal Monitoring and Bureaucrat Adjustments 
 </b><a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonit.pdf" style="text-decoration: none">
-<button type="button" class="btn custom-button">Working Paper</button></a>
+<button type="button" class="btn btn-default btn-sm custom-button">Working Paper</button></a>
 
 <div style="margin-left: 2.75em; margin-right: 2em;">
 <br>
