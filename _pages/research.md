@@ -56,7 +56,6 @@ We examine the impact of a vaccination campaign in Kenya that sent healthcare pr
 <b>Hard to Read: The impact of advanced reading assignments on literacy</b> 
 with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, Mridul Joshi, and <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>
 <div style="margin-left: 2.75em; margin-right: 2em;">
-<a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">[working paper link]</a>
 
 <details>
 <summary>Abstract</summary>
@@ -72,7 +71,6 @@ We evaluate the impact of providing more advanced English reading assignments to
 <b>SMS Interventions Do Not Increase COVID-19 Vaccination Completion in Kenya</b> 
 with Florence Aketch, <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>, James Otieno, and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
 <div style="margin-left: 2.75em; margin-right: 2em;">
-<a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">[working paper link]</a>
 
 <details>
 <summary>Abstract</summary>
