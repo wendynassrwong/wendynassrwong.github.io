@@ -125,7 +125,7 @@ with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-d
 
 
 <p style = "font-family:'Raleway'">
-<b>Improving Property Tax Collection: Reducing Property Owner and Monitor Incentives to Misreport </b> 
+<b>Improving Local Tax Compliance in India</b> 
 
 with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf Neggers</a> and Shreya Singh
 </p>
