@@ -14,10 +14,10 @@ author_profile: false
 <head>
 <style>
 .custom-button {
-    background-color: #626567; 
+    background-color: #4D5656; 
     color: black; 
-    font-size: 18px; /* Larger font size */
-    padding: 10px 11px; /* Bigger button through padding */
+    font-size: 16px; /* Larger font size */
+    padding: 6px 8px; /* Bigger button through padding */
     border: none; /* No border */
     border-radius: 5px; /* Rounded corners */
 }
