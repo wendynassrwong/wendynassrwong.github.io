@@ -27,7 +27,6 @@ Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: no
             <li>Applied Microeconomics</li>
             <li>Development Economics</li>
             <li>Personnel Economics</li>
-		 <li>Political Economy</li>
         </ul>
     </div>
     <div class="column">
@@ -46,3 +45,4 @@ Contact me at <a href="mailto:wendywong@uchicago.edu" style="text-decoration: no
         </ul>
     </div>
 </div>
+
