@@ -34,7 +34,7 @@ Optimal Monitoring and Bureaucrat Adjustments
 
 <div style="margin-left: 2.75em; margin-right: 2em;">
 <a href="https://wendynassrwong.github.io/files/WendyNWong_OptimMonit.pdf" style="text-decoration: none">
-<button type="button" class="btn btn-default btn-sm custom-button">Working Paper</button></a> <a href="https://blogs.worldbank.org/impactevaluations/surprise-when-do-they-work-best-auditors-guest-post-wendy-n-wong" style="text-decoration: none"><button type="button" class="btn btn-default btn-sm custom-button">World Bank Development Impact Blog Post</button></a>
+<button type="button" class="btn btn-default btn-sm custom-button">Paper</button></a> <a href="https://blogs.worldbank.org/impactevaluations/surprise-when-do-they-work-best-auditors-guest-post-wendy-n-wong" style="text-decoration: none"><button type="button" class="btn btn-default btn-sm custom-button">World Bank Development Impact Blog Post</button></a>
 
 
 <details>
@@ -56,7 +56,7 @@ with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">
 
 <div style="margin-left: 2.75em; margin-right: 2em;">
 <a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">
-<button type="button" class="btn btn-default btn-sm custom-button">Working Paper</button></a>
+<button type="button" class="btn btn-default btn-sm custom-button">Paper</button></a>
 <details>
 <summary>Abstract</summary>
 <br>
