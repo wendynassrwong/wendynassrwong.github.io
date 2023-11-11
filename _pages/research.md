@@ -39,7 +39,10 @@ Monitoring policies designed to maximize deterrence must account for attempts by
 with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>,  and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
 
 <div style="margin-left: 2.75em; margin-right: 2em;">
-<a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">[working paper link]</a>
+<a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">
+<button type="button" class="btn btn-default btn-sm">Working Paper 
+</button></a>
+
 
 <details>
 <summary>Abstract</summary>
