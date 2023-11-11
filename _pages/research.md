@@ -154,7 +154,7 @@ with <a href="https://sites.google.com/view/bocarba/" style="text-decoration: no
 -->
 
 <p style = "font-family:'Raleway'">
-<b>Informal Relationships between Bureaucrats and Beneficiaries, and Access to Public Resources (data collection completed; analysis on hold)</b> 
+<b>Informal Relationships between Bureaucrats and Beneficiaries, and Access to Public Resources</b> (data collection completed; analysis on hold)
 </p>
 
 
