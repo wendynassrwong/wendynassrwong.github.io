@@ -15,9 +15,9 @@ author_profile: false
 <style>
 .custom-button {
     background-color: #D0D3D4; 
-    color: #4D5656; 
+    color: black; 
     font-size: 16px; /* Larger font size */
-    padding: 10px 16px; /* Bigger button through padding */
+    padding: 10px 14px; /* Bigger button through padding */
     border: none; /* No border */
     border-radius: 5px; /* Rounded corners */
 }
