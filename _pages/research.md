@@ -120,13 +120,13 @@ with <a href="https://sites.google.com/site/pablopenamunoz/" style="text-decorat
 
 <p style = "font-family:'Raleway'">
 <b>The Value of Concision</b> 
-(field experiment and data collection completed; analysis and writing in progress)with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, and <a href="https://www.uu.nl/staff/JJdeLaat" style="text-decoration: none">Joost de Laat</a>
+(field experiment and data collection completed; writing in progress) with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, and <a href="https://www.uu.nl/staff/JJdeLaat" style="text-decoration: none">Joost de Laat</a>
 </p>
 
 
 <p style = "font-family:'Raleway'">
 <b>Improving Local Tax Compliance in India</b> 
-(field experiment and data collection completed; analysis and writing in progress)
+(field experiment and data collection completed; writing in progress)
 with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf Neggers</a> and Shreya Singh
 </p>
 
