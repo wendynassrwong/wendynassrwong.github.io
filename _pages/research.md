@@ -14,9 +14,9 @@ author_profile: false
 <head>
 <style>
 .custom-button {
-    background-color: #D7DBDD; /* Green background */
-    color: white; /* White text */
-    font-size: 10px; /* Larger font size */
+    background-color: #D0D3D4; 
+    color: #626567; 
+    font-size: 14px; /* Larger font size */
     padding: 10px 16px; /* Bigger button through padding */
     border: none; /* No border */
     border-radius: 5px; /* Rounded corners */
@@ -50,11 +50,11 @@ Monitoring policies designed to maximize deterrence must account for attempts by
 <div style="margin-left: 2em; margin-right: 2em;">
 <p style = "font-family:'Raleway'">
 <b>Outreach and Invitations: Increasing COVID-19 Vaccination in Kenya</b> 
-with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>,  and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
+with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>,  and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a> <a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">
+<button type="button" class="btn btn-default btn-sm custom-button">Working Paper</button></a>
+
 
 <div style="margin-left: 2.75em; margin-right: 2em;">
-<a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">
-<button type="button" class="btn btn-default btn-sm custom-button">Working Paper</button></a>
 
 
 <details>
