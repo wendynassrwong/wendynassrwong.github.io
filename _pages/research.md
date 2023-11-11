@@ -114,19 +114,19 @@ Two to three years into the pandemic, in a setting where messaging around COVID-
 
 <p style = "font-family:'Raleway'">
 <b>Women Driving Women</b> 
-
+(field experiment completed; data collection and analysis in progress)
 with <a href="https://sites.google.com/site/pablopenamunoz/" style="text-decoration: none">Pablo Pe<span>&#241;</span>a</a> 
 </p>
 
 <p style = "font-family:'Raleway'">
 <b>The Value of Concision</b> 
-with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, and <a href="https://www.uu.nl/staff/JJdeLaat" style="text-decoration: none">Joost de Laat</a>
+(field experiment and data collection completed; analysis and writing in progress)with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, and <a href="https://www.uu.nl/staff/JJdeLaat" style="text-decoration: none">Joost de Laat</a>
 </p>
 
 
 <p style = "font-family:'Raleway'">
 <b>Improving Local Tax Compliance in India</b> 
-
+(field experiment and data collection completed; analysis and writing in progress)
 with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf Neggers</a> and Shreya Singh
 </p>
 
