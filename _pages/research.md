@@ -55,6 +55,15 @@ We examine the impact of a vaccination campaign in Kenya that sent healthcare pr
 <p style = "font-family:'Raleway'">
 <b>Hard to Read: The impact of advanced reading assignments on literacy</b> 
 with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, Mridul Joshi, and <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>
+<div style="margin-left: 2.75em; margin-right: 2em;">
+<a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">[working paper link]</a>
+
+<details>
+<summary>Abstract</summary>
+<br>
+We evaluate the impact of providing more advanced English reading assignments to children attending low cost private schools in Nigeria. Top-performing students do not benefit from advanced reading assignments, and short-run reading fluency may even be harmed: students assigned to advanced work read fewer words per minute and score lower on literacy assessments. Surprisingly this negative impact is driven by the highest-performing students. We argue that this result may indicate that only top-performing students benefit from the status quo level of reading assignments in this setting.
+</details>
+</div>
 </p>
 </div>
 
@@ -62,6 +71,17 @@ with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-d
 <p style = "font-family:'Raleway'">
 <b>SMS Interventions Do Not Increase COVID-19 Vaccination Completion in Kenya</b> 
 with Florence Aketch, <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>, James Otieno, and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
+<div style="margin-left: 2.75em; margin-right: 2em;">
+<a href="https://wendynassrwong.github.io/files/kisumunurse_WP.pdf" style="text-decoration: none">[working paper link]</a>
+
+<details>
+<summary>Abstract</summary>
+<br>
+We evaluate the impact of SMS interventions on COVID-19 vaccination completion in Kisumu County, Kenya and address barriers to completion among people who receive a first but not a second dose of a two-dose COVID-19 vaccine sequence. We conducted four experiments between July 2022 and January 2023 testing the effect of SMS messages that provided people with information about the vaccines and reasons to get fully vaccinated, including incentives. Partnering with the Kisumu County Ministry of Health, we randomly assigned 69,824 people to receive one SMS or to a control where they received no message. After the fourth, final experiment, we randomly selected 114 participants for a qualitative phone survey.
+We find no significant treatment effects of any of the SMS messages on vaccination completion rates (point estimate: 0.0031; 95% confidence interval: -0.0016-0.0078). Vaccination completion rates increase over the study period but do not increase significantly more in any treatment condition than in the control group. Phone surveys reveal that 85.1% of people recalled receiving the message, but that concern about COVID-19 could be a substantial barrier, with 34.0% of the sample saying they are "not at all worried" about COVID-19.
+Two to three years into the pandemic, in a setting where messaging around COVID-19 vaccination is already saturated, a simple SMS intervention in Kisumu, Kenya does not increase COVID-19 vaccination completion rates among those who received only the first dose of a two-dose sequence.
+</details>
+</div>
 </p>
 </div>
 
