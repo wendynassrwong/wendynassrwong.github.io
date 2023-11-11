@@ -121,7 +121,7 @@ with <a href="https://sites.google.com/site/pablopenamunoz/" style="text-decorat
 
 <p style = "font-family:'Raleway'">
 <b>The Value of Concision</b> 
-with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, and <a href="https://www.uu.nl/staff/JJdeLaat" style="text-decoration: none">Joost de Laat</a>, 
+with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, and <a href="https://www.uu.nl/staff/JJdeLaat" style="text-decoration: none">Joost de Laat</a>
 </p>
 
 
