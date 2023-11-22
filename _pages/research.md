@@ -69,10 +69,10 @@ We examine the impact of a vaccination campaign in Kenya that sent healthcare pr
 
 <div style="margin-left: 2em; margin-right: 2em;">
 <p style = "font-family:'Raleway'">
-<b>Hard to Read: The impact of advanced reading assignments on literacy</b> 
+<b>Hard to Read: The Impact of Advanced Reading Assignments on Literacy</b> 
 with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, Mridul Joshi, and <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>
-<div style="margin-left: 2.75em; margin-right: 2em;">
 
+<div style="margin-left: 2.75em; margin-right: 2em;">
 <details>
 <summary>Abstract</summary>
 <br>
@@ -86,14 +86,14 @@ We evaluate the impact of providing more advanced English reading assignments to
 <p style = "font-family:'Raleway'">
 <b>SMS Interventions Do Not Increase COVID-19 Vaccination Completion in Kenya</b> 
 with Florence Aketch, <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>, James Otieno, and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a>
-<div style="margin-left: 2.75em; margin-right: 2em;">
 
+<div style="margin-left: 2.75em; margin-right: 2em;">
+<a href="https://wendynassrwong.github.io/files/Defaulters_WP.pdf" style="text-decoration: none">
+<button type="button" class="btn btn-default btn-sm custom-button">Paper</button></a>
 <details>
 <summary>Abstract</summary>
 <br>
-We evaluate the impact of SMS interventions on COVID-19 vaccination completion in Kisumu County, Kenya and address barriers to completion among people who receive a first but not a second dose of a two-dose COVID-19 vaccine sequence. We conducted four experiments between July 2022 and January 2023 testing the effect of SMS messages that provided people with information about the vaccines and reasons to get fully vaccinated, including incentives. Partnering with the Kisumu County Ministry of Health, we randomly assigned 69,824 people to receive one SMS or to a control where they received no message. After the fourth, final experiment, we randomly selected 114 participants for a qualitative phone survey.
-We find no significant treatment effects of any of the SMS messages on vaccination completion rates (point estimate: 0.0031; 95% confidence interval: -0.0016-0.0078). Vaccination completion rates increase over the study period but do not increase significantly more in any treatment condition than in the control group. Phone surveys reveal that 85.1% of people recalled receiving the message, but that concern about COVID-19 could be a substantial barrier, with 34.0% of the sample saying they are "not at all worried" about COVID-19.
-Two to three years into the pandemic, in a setting where messaging around COVID-19 vaccination is already saturated, a simple SMS intervention in Kisumu, Kenya does not increase COVID-19 vaccination completion rates among those who received only the first dose of a two-dose sequence.
+We evaluate the impact of SMS interventions on COVID-19 vaccination completion in Kisumu County, Kenya and address barriers to completion among people who receive a first but not a second dose of a two-dose COVID-19 vaccine sequence. We conducted four experiments between July 2022 and January 2023 testing the effect of SMS messages that provided people with information about the vaccines and reasons to get fully vaccinated, including incentives. We find no significant treatment effects of any of the SMS messages on vaccination completion rates (point estimate: 0.0031; 95% confidence interval: -0.0016-0.0078). Vaccination completion rates increase over the study period but do not increase significantly more in any treatment condition than in the control group. Phone surveys reveal that 85% of people recalled receiving the message, but that concern about COVID-19 could be a substantial barrier, with approximately one-third of the sample saying they are "not at all worried" about COVID-19.
 </details>
 </div>
 </p>
@@ -121,7 +121,16 @@ with <a href="https://sites.google.com/site/pablopenamunoz/" style="text-decorat
 <p style = "font-family:'Raleway'">
 <b>The Value of Concision</b> 
 (field experiment and data collection completed; writing in progress) with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, and <a href="https://www.uu.nl/staff/JJdeLaat" style="text-decoration: none">Joost de Laat</a>
+
+<div style="margin-left: 2.75em; margin-right: 2em;">
+<details>
+<summary>Abstract</summary>
+<br>
+Two experiments by a firm delivering highly-detailed lesson plans to teachers found that providing teachers with more concise and clearer lesson plans raised student test scores by 0.17 standard deviations. Effects are concentrated among the lowest-scoring students and in larger classes, consistent with the hypothesis that more concise and clearer lesson plans freed up teacher time for unscripted tasks, such as providing students with individual feedback. 
+</details>
+</div>
 </p>
+
 
 
 <p style = "font-family:'Raleway'">
@@ -134,7 +143,18 @@ with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf
 <b>Scaling Up Personalized Adaptive Learning in India</b> (field experiment in progress)
 
 with <a href="https://bfi.uchicago.edu/scholar/emily-cupito/" style="text-decoration: none">Emily Cupito</a>, <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, and <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>
+
+<div style="margin-left: 2.75em; margin-right: 2em;">
+<details>
+<summary>Abstract</summary>
+<br>
+Personalized Adaptive Learning with edtech (PAL) has the potential to provide individually-customized education at scale within existing education systems. PAL tailors content to create a learning journey designed to address individual learning needs, and has been shown to foster remedial learning and mitigate learning gaps in settings where children lag behind grade-level skills (de Barros and Ganimian 2023; Muralidharan, Singh, and Ganimian 2019; Escueta et al. 2017). However, while PAL has been shown to be consistently effective in researcher-controlled settings after school, it has yet to be shown to be effective when run by a government partner during the school day (Banerjee et al. 2023). Additionally, the effectiveness of education interventions, including learning through the use of edtech, when conducted at scale can be sensitive to the model and quality of implementation (Banerjee et al. 2017; Kulik and Fletcher 2016). An edtech program that leads to poor adoption by teachers and students would not only lead to no gains in learning, but would also include costly investments in hardware and infrastructure which could have been better spent elsewhere. 
+
+In 2019, the Government of Andhra Pradesh (GovAP) in India launched one of the first government-run PAL programs in over 500 schools with ConveGenius, the main provider, and other software companies. In collaboration with the GovAP, this project is using RCTs to 1) evaluate the impact of the GovAP's PAL program, and 2) evaluate two additional PAL program variants to inform the program's design at scale.
+</details>
+</div>
 </p>
+
 
 <p style = "font-family:'Raleway'">
 <b>The Impact of Conversational AI on Learning with Education Technology in India</b> (preparing for field experiment)
