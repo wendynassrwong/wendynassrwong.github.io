@@ -50,7 +50,7 @@ Monitoring policies designed to maximize deterrence must account for attempts by
 
 <div style="margin-left: 2em; margin-right: 2em;">
 <p style = "font-family:'Raleway'">
-<b>Outreach and Invitations: Increasing COVID-19 Vaccination in Kenya</b> 
+<b>Access and Invitations: Increasing COVID-19 Vaccination in Kenya</b> 
 with <a href="https://www.kevin-carney.com/home/" style="text-decoration: none">Kevin Carney</a>, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, <a href="https://elisamaffioli.com/" style="text-decoration: none">Elisa Maffioli</a>,  and <a href="https://leahrrosenzweig.com/" style="text-decoration: none">Leah Rosenzweig</a> 
 
 
