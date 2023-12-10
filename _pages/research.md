@@ -73,6 +73,7 @@ We examine the impact of a vaccination campaign in Kenya that sent healthcare pr
 with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, Mridul Joshi, and <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>
 
 <div style="margin-left: 2.75em; margin-right: 2em;">
+<i>Draft available upon request.</i>
 <details>
 <summary>Abstract</summary>
 <br>
@@ -116,6 +117,9 @@ We evaluate the impact of SMS interventions on COVID-19 vaccination completion i
 <b>Women Driving Women</b> 
 (field experiment completed; data collection and analysis in progress)
 with <a href="https://sites.google.com/site/pablopenamunoz/" style="text-decoration: none">Pablo Pe<span>&#241;</span>a</a> 
+<div style="margin-left: 2.75em; margin-right: 2em;">
+We conducted field experiments with a rideshare company in Mexico aiming to improve female participation and safety. Further details are currently under embargo.
+</div>
 </p>
 
 <p style = "font-family:'Raleway'">
@@ -140,7 +144,7 @@ with <a href="https://www.yusufneggers.com/" style="text-decoration: none">Yusuf
 </p>
 
 <p style = "font-family:'Raleway'">
-<b>Scaling Up Personalized Adaptive Learning in India</b> (field experiment in progress)
+<b>Scaling Up Personalized Adaptive Learning in India</b> (a portfolio of work with multiple field experiments in progress)
 
 with <a href="https://bfi.uchicago.edu/scholar/emily-cupito/" style="text-decoration: none">Emily Cupito</a>, <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, and <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>
 
