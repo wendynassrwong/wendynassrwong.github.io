@@ -70,7 +70,7 @@ We examine the impact of a vaccination campaign in Kenya that sent healthcare pr
 <div style="margin-left: 2em; margin-right: 2em;">
 <p style = "font-family:'Raleway'">
 <b>Hard to Read: The Impact of Advanced Reading Assignments on Literacy</b> 
-with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, Mridul Joshi, and <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>
+with <a href="https://bfi.uchicago.edu/scholar/guthrie-gray-lobe/" style="text-decoration: none">Guthrie Gray-Lobe</a>, Mridul Joshi, <a href="https://michaelkremer.economics.uchicago.edu/" style="text-decoration: none">Michael Kremer</a>, and <a href="https://www.uu.nl/staff/JJdeLaat" style="text-decoration: none">Joost de Laat</a>
 
 <div style="margin-left: 2.75em; margin-right: 2em;">
 <i>Draft available upon request.</i>
