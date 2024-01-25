@@ -11,7 +11,7 @@ I am a Postdoctoral Scholar with the <a href="https://dil.uchicago.edu/" style="
 
 I am interested in the role of formal and informal institutions in addressing poverty and inequality. My current research focuses on how policies can be designed to improve motivation and welfare in public and private sector settings.
 
-I am on the job market this 2023-24 academic year.
+I am on the 2023-24 job market.
 
 
 
